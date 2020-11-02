@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "name": "test",
+  "description": "no description",
+  "launch_path": "index.html",
+  "icons": {
+    "48": "/img/omrs-button.png"
+  },
+  "developer": {
+    "name": "redet-G",
+    "url": "https://github.com/redet-G/openmrs-owa-test"
+  },
+  "default_locale": "en",
+  "activities": {
+    "openmrs": {
+      "href": "/owa/test/index.html"
+    }
+  }
+}
