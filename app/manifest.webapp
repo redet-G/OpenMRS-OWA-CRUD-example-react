@@ -1,19 +1,19 @@
 {
   "version": "0.1.0",
-  "name": "test",
-  "description": "no description",
+  "name": "owa-crud-example-react",
+  "description": "CRUD SPA APP for https://github.com/redet-G/OpenMRS-CRUD-example",
   "launch_path": "index.html",
   "icons": {
     "48": "/img/omrs-button.png"
   },
   "developer": {
     "name": "redet-G",
-    "url": "https://github.com/redet-G/openmrs-owa-test"
+    "url": "https://github.com/redet-G/OpenMRS-OWA-CRUD-example-react"
   },
   "default_locale": "en",
   "activities": {
     "openmrs": {
-      "href": "/owa/test/index.html"
+      "href": "/owa/owa-crud-example-react/index.html"
     }
   }
 }
